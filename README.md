@@ -7,8 +7,8 @@
 
 
 #### About me  
-- 💻 I'm studying computer science in Faculty of computers and informatics, Zagazig university
-- 🤖 I'm currently learning a Data Science
+- 💻 I'm studying computer science in faculty of computers and informatics, zagazig university
+- 🤖 I'm currently learning a data Science
 - 📫 How to reach me: by email mohamed.basher.daoud@gmail.com
 
 
