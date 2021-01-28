@@ -14,7 +14,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&theme=blue)
 
@@ -45,16 +45,3 @@
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
-
-
-<!--
-**kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 🌱 I'm currently learning MIT MicroMaster: [Statistics and Data Science](https://micromasters.mit.edu/ds)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
