@@ -13,8 +13,16 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&theme=blue)
+
+
+
+
+#### OS and shells
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 
 
 #### My favourite languages & tools
