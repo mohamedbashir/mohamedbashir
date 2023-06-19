@@ -2,8 +2,6 @@
 
 [![Linkedin: Mohamed Basher](https://img.shields.io/badge/-Mohamed%20Basher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-basher/)](https://www.linkedin.com/in/mohamed-basher/)
 [![GitHub followers](https://img.shields.io/github/followers/mohamedbashir?style=social)](https://github.com/mohamedbashir)
-[![Kaggle Badge](https://img.shields.io/badge/-Mohamed%20Basher-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/mohamedbasher)
-![Profile views](https://gpvc.arturio.dev/mohamedbashir)
 
 
 #### About me  
