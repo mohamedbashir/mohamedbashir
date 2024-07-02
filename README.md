@@ -28,18 +28,4 @@
 #### My favourite languages & tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Javascript-yellow)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
-![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-#### My favourite frameworks & tools  
-
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
-![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
-
-
-#### My favourite Python libs
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
