@@ -1,48 +1,31 @@
-<h2 align="left">Hi 👋! My name is Mohamed Bashir and I'm a Back-End Developer, from Egypt</h2>
+### Hi, I'm Mohamed Bashir 👋
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbashir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedbashir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mohamed.basher.daoud@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-basher/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+[![Linkedin: Mohamed Basher](https://img.shields.io/badge/-Mohamed%20Basher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-basher/)](https://www.linkedin.com/in/mohamed-basher/)
+[![GitHub followers](https://img.shields.io/github/followers/mohamedbashir?style=social)](https://github.com/mohamedbashir)
 
 
-###
+#### About me  
+- 💻 I'm studied computer science in faculty of computers and informatics, zagazig university
+- 🤖 I'm currently learning data Science & Back-End Development
+- 📫 How to reach me: by email mohamed.basher.daoud@gmail.com
+
+
+
+
+
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&theme=blue)
+
+
+
+
+#### OS and shells
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+
+
+#### My favourite languages & tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Javascript-yellow)
+![](https://img.shields.io/badge/Code-CSharp-8A2BE2)
