@@ -1,4 +1,4 @@
-![image](https://github.com/mohamedbashir/mohamedbashir/assets/39374709/23a0acde-d617-477a-903c-37b661aa2141)<div align="center">
+<div align="center">
   <img height="200" src="https://imgflip.com/s/meme/Hide-the-Pain-Harold.jpg"  />
 </div>
 
