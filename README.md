@@ -28,4 +28,4 @@
 #### My favourite languages & tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Javascript-yellow)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Code-CSharp-8A2BE2)
