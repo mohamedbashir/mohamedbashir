@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Mohamed Bashir and I'm a Back-End Developer, from Egypt</h3>
+<h2 align="left">Hi 👋! My name is Mohamed Bashir and I'm a Back-End Developer, from Egypt</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
+<img align="right" height="250" src="https://imgflip.com/s/meme/Disaster-Girl.jpg"  />
 
 ###
 
@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohamedbashir/mohamedbashir/output/snake.svg" alt="Snake animation" />
 
 ###
