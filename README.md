@@ -40,12 +40,6 @@ Welcome to my GitHub profile! I'm a Backend Developer based in Cairo, Egypt, wit
 
 ---
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical)](https://github.com/mohamedbashir/github-readme-stats)
-
----
-
 ## 🌟 Recent Blog Posts
 
 - My blog on Hashnode. Stay tuned for updates!  
