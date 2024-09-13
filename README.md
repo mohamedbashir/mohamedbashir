@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a Backend Developer based in Cairo, Egypt, wit
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical)](https://github.com/mohamedbashir/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedbashir&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&hide_progress=true)
 ---
 
 ## 🌟 Recent Blog Posts
