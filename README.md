@@ -1,21 +1,48 @@
+# 👋 Hi, I'm Mohamed Bashir!
 
-<h1 align="center">Hi, I'm Mohamed Bashir! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedbashir.mohamedbashir&left_color=royalblue&right_color=black"  />
+**`Backend Developer | .NET Specialist`**
 
-[![Linkedin: Mohamed Basher](https://img.shields.io/badge/-Mohamed%20Basher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-basher/)](https://www.linkedin.com/in/mohamed-basher/)
-[![GitHub followers](https://img.shields.io/github/followers/mohamedbashir?style=social)](https://github.com/mohamedbashir)
+Welcome to my GitHub profile! I'm a Backend Developer based in Cairo, Egypt, with over 3 years of experience specializing in .NET frameworks, C# (ASP.NET), and SQL (MSSQL). I love building scalable applications and solving complex software challenges.
 
+- 🌱 I’m currently enhancing my skills in **AI** and **Machine Learning**.
+- 👨‍💻 All of my open-source projects are available [here](https://github.com/mohamedbashir).
+- 💬 Ask me about **.NET Core, C#, REST APIs, Entity Framework,** or **SQL Server**.
+- 📫 How to reach me: [mohamed.basher.daoud@gmail.com](mailto:mohamed.basher.daoud@gmail.com)
+- ⚡ Fun fact: I am passionate about leveraging technology to solve real-world problems and love to explore new advancements in software engineering!
 
-#### About me  
-- 💻 I'm studied computer science in faculty of computers and informatics, zagazig university
-- 🤖 I'm currently learning data Science & Back-End Development
-- 📫 How to reach me: by email mohamed.basher.daoud@gmail.com
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,py,django,dotnet,docker,git,github,vscode)](https://skillicons.dev)
+- **Languages:** C#, Python, JavaScript
+- **Frameworks:** .NET Core, ASP.NET, Entity Framework, Django
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub, SQL Server, Crystal Reports, Serilog
+- **Architectural Patterns:** REST API, Clean Architecture, Dependency Injection
+- **Testing:** Unit Testing
 
+## 🚀 Notable Projects
 
+### [🔬 Diagnosis of Lung and Colon Cancer (Graduation Project)](https://github.com/mohamedbashir/Diagnosis-Lung-and-Colon-Cancer-Using-Histopathological-Images)
+- **Tech Stack:** Image Processing Techniques, Machine Learning Algorithms
+- **Description:** Conducted a research project focused on diagnosing lung and colon cancer using histopathology images. Achieved a 90% accuracy rate in cancer diagnosis through advanced analysis and algorithm development.
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&theme=blue)](https://github.com/mohamedbashir/github-readme-stats)
+## 📈 GitHub Stats
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&theme=blue)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical)
 
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-basher)
+- [GitHub](https://github.com/mohamedbashir)
+- [Email](mailto:mohamed.basher.daoud@gmail.com)
+
+## 🌟 Recent Blog Posts
+
+- *Coming Soon!*
+
+## 🤝 Let's Collaborate!
+
+Feel free to reach out if you want to collaborate on any exciting projects or if you have any questions or ideas to discuss!
+
+---
+
+*“Technology, like art, is a soaring exercise of the human imagination.”* - Daniel Bell
