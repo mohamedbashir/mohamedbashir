@@ -9,7 +9,7 @@
 - 🤖 I'm currently learning data Science & Back-End Development
 - 📫 How to reach me: by email mohamed.basher.daoud@gmail.com
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,py,django,dotnet,docker,git,github,vscode)](https://skillicons.dev)
 
 
 
