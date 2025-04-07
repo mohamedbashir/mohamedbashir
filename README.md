@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a Backend Developer based in Cairo, Egypt, wit
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
