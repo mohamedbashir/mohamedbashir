@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a Backend Developer based in Cairo, Egypt, with over 3 years of experience specializing in .NET frameworks, C# (ASP.NET), and SQL (MSSQL). I love building scalable applications and solving complex software challenges.
 
 - 🌱 I’m currently enhancing my skills in **.NET Core** and **Django**.
-- 👨‍💻 All of my open-source projects are available [here](https://github.com/mohamedbashir).
+- 👨‍💻 All of my open-source projects are available [here](https://github.com/mohamedbashir?tab=repositories).
 - 💬 Ask me about **.NET Core, C#, REST APIs, Entity Framework,** or **SQL Server**.
 - 📫 How to reach me: [mohamed.basher.daoud@gmail.com](mailto:mohamed.basher.daoud@gmail.com)
 - ⚡ Fun fact: I am passionate about leveraging technology to solve real-world problems and love to explore new advancements in software engineering!
