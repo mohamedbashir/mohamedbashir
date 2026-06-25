@@ -22,7 +22,6 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working as a **Senior Backend Developer** at **IScore**.
-- 🏗️ Recently engineered the backend system for the **Madbaghty** project, implementing dynamic role management and secure OTP-based authentication.
 - 🌱 I am actively expanding my expertise into Full-Stack development by mastering **Angular** and frontend fundamentals.
 - 💬 Ask me about **.NET Core, C#, Entity Framework Core, RESTful APIs,** and **SQL Server architecture**.
 - ⚡ Fun fact: I am passionate about leveraging technology to solve real-world problems and creating structured, high-performance systems.
