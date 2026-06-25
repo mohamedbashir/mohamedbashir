@@ -48,7 +48,6 @@ Welcome to my digital workspace! I'm a Senior Backend Developer based in Cairo, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
