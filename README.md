@@ -47,10 +47,9 @@ Welcome to my digital workspace! I'm a Senior Backend Developer based in Cairo, 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://mo-github-readme-stats-ov4qbrsdo-mohamed-bashir-s-projects.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed's GitHub stats" />
-  <img src="https://mo-github-readme-stats-ov4qbrsdo-mohamed-bashir-s-projects.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![Mohamed's GitHub stats](https://mo-github-readme-stats-ov4qbrsdo-mohamed-bashir-s-projects.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://mo-github-readme-stats-ov4qbrsdo-mohamed-bashir-s-projects.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical&hide_border=true)
 
 ---
 
