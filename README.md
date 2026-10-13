@@ -45,16 +45,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://mo-github-readme-stats.vercel.app/api?username=mohamedbashir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed's GitHub stats" />
-  <br/><br/>
-  <img src="https://mo-github-readme-stats.vercel.app/api/top-langs/?username=mohamedbashir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 💻 Featured Work
 
 ### [🔬 Diagnosis of Lung and Colon Cancer](https://github.com/mohamedbashir/Diagnosis-Lung-and-Colon-Cancer-Using-Histopathological-Images)
